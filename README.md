@@ -1,5 +1,5 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
-### Develper full-stack iOS & Android engineer
+### Develper full-stack
 
 ![https://github.com/Haleymhm](https://github.com/Haleymhm/Haleymhm/blob/main/header-git.png)
 
