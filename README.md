@@ -1,11 +1,11 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
 ### Develper full-stack iOS & Android engineer
 
-![https://github.com/mouredev](https://github.com/Haleymhm/Haleymhm/blob/main/header-git.png)
+![https://github.com/Haleymhm](https://github.com/Haleymhm/Haleymhm/blob/main/header-git.png)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/haleymhm?style=social)](https://twitter.com/mouredev)
+![GitHub Followers](https://img.shields.io/github/followers/Haleymhm?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/Haleymhm?style=social)
 
 Soy ingeniero de software profesional desde hace más de doce años.
 
