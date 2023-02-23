@@ -14,16 +14,16 @@ Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de 
 
 ## Tecnologías:
 ### Lenguajes
-[![PHP](https://img.shields.io/badge/Php-007396?style=plastic&logo=php&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-yellow?style=plastic&logo=python&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/Php-6A1B9A?style=plastic&logo=php&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-FFEE58?style=plastic&logo=python&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-FDD835?style=plastic&logo=javascript&logoColor=white&labelColor=101010)]()
 
 ### Framework y herramientas Front-end
-[![Vue.js](https://img.shields.io/badge/VueJS-4479A1?style=plastic&logo=vue&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-FFCA28?style=plastic&logo=react&logoColor=white&labelColor=101010)]()
+[![Vue.js](https://img.shields.io/badge/VueJS-43A047?style=plastic&logo=vue&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-0D47A1?style=plastic&logo=react&logoColor=white&labelColor=101010)]()
 [![Jquery](https://img.shields.io/badge/Jquery-47A248?style=plastic&logo=jquery&logoColor=white&labelColor=101010)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrp-47A248?style=plastic&logo=bootstrap&logoColor=white&labelColor=101010)]()
-[![TailwindCss](https://img.shields.io/badge/Tailwindcss-4479A1?style=plastic&logo=tailwindcss&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrp-4A148C?style=plastic&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![TailwindCss](https://img.shields.io/badge/Tailwindcss-64B5F6?style=plastic&logo=tailwindcss&logoColor=white&labelColor=101010)]()
 
 ### Framework y herramientas Back-end
 [![Larvel](https://img.shields.io/badge/laravel-E4405F?style=plastic&logo=laravel&logoColor=white&labelColor=101010)]()
