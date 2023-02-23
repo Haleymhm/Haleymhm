@@ -29,8 +29,8 @@ Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de 
 [![Larvel](https://img.shields.io/badge/laravel-E4405F?style=plastic&logo=laravel&logoColor=white&labelColor=101010)]()
 [![Symfony](https://img.shields.io/badge/symfony-339933?style=plastic&logo=symfony&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=plastic&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Flask](https://img.shields.io/badge/Flask-339933?style=plastic&logo=symfony&logoColor=white&labelColor=101010)]()
-[![FastApi](https://img.shields.io/badge/FastApi-339933?style=plastic&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Flask](https://img.shields.io/badge/Flask-FDD835?style=plastic&logo=symfony&logoColor=white&labelColor=101010)]()
+[![FastApi](https://img.shields.io/badge/FastApi-00C853?style=plastic&logo=node.js&logoColor=white&labelColor=101010)]()
 
 ### Base de datos
 
