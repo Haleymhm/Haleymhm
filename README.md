@@ -44,8 +44,10 @@ Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de 
 
 ### Otras herramientas
 </br>
-
-
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white&labelColor=101010)]()
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=101010)]()
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white&labelColor=101010)]()
 
 </br>
 Y alguna más...
@@ -56,10 +58,9 @@ Y alguna más...
 [![Instagram](https://img.shields.io/badge/Instagram-@haleymhidalgom-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/haleymhidalgom)
 [![Facebook](https://img.shields.io/badge/Facebook-@haleymhm-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/haleymhm)
 </br>
-[![Link](https://img.shields.io/badge/Link_Site-haleymhm.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://haleymhm.com)
+[![Web](https://img.shields.io/badge/haleymhm.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://haleymhm.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haleym_Hidalgo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/haleymhidalgomoyetones)
 
-[![Web](https://img.shields.io/badge/haleymhm.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://haleymhm.dev)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
