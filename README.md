@@ -34,12 +34,12 @@ Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de 
 
 ### Base de datos
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgressql&logoColor=4169E1&labelColor=101010)]()
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracleh&logoColor=F80000&labelColor=101010)]()
-[![ElasticSearch](https://img.shields.io/badge/ElasticSearch-47A248?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=101010)]()
+[![Postgres](https://img.shields.io/badge/PostgresSql-4169E1?style=for-the-badge&logo=postgressql&logoColor=white&labelColor=101010)]()
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracleh&logoColor=white&labelColor=101010)]()
+[![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=101010)]()
 
 ### Servicios cloud
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 
 
