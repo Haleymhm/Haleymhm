@@ -7,7 +7,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/Haleymhm?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Haleymhm?style=social)
 
-Soy ingeniero en sistemas y desarrollador desde hace más de doce años, :flag: venezolano viviendo en Chile desde al 2018
+Soy ingeniero en sistemas y desarrollador desde hace más de doce años, :ve: venezolano viviendo en Chile :cl: desde al 2018
 <br />
 Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de Ingeniero en Informática [Universidad Politécnica Territorial Del Estado Portuguesa]. (Paso mucho tiempo :grin:, pero soy alérgico a las aulas de clases :unamused:)
 
@@ -42,7 +42,7 @@ Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de 
 [![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
 
-
+### Otras herramientas
 </br>
 
 
