@@ -7,7 +7,9 @@
 ![GitHub Followers](https://img.shields.io/github/followers/Haleymhm?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/Haleymhm?style=social)
 
-Soy ingeniero en sistemas y desarrollador desde hace más de doce años.
+Soy ingeniero en sistemas y desarrollador desde hace más de doce años, :ven: venezolano viviendo en Chile desde al 2018
+<br />
+Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de Ingeniero en Informática [Universidad Politécnica Territorial Del Estado Portuguesa]. (Paso mucho tiempo pero soy alegico a las aulas de clases y a los docentes con poca experiencia :)
 
 
 ## Tecnologías:
