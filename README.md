@@ -21,7 +21,7 @@ Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de 
 ### Framework y herramientas Front-end
 [![Vue.js](https://img.shields.io/badge/VueJS-43A047?style=plastic&logo=vue&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-0D47A1?style=plastic&logo=react&logoColor=white&labelColor=101010)]()
-[![Jquery](https://img.shields.io/badge/Jquery-47A248?style=plastic&logo=jquery&logoColor=white&labelColor=101010)]()
+[![Jquery](https://img.shields.io/badge/Jquery-navy?style=plastic&logo=jquery&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrp-4A148C?style=plastic&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![TailwindCss](https://img.shields.io/badge/Tailwindcss-64B5F6?style=plastic&logo=tailwindcss&logoColor=white&labelColor=101010)]()
 
