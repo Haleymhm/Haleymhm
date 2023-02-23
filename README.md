@@ -36,97 +36,9 @@ Y alguna más...
 [![Facebook](https://img.shields.io/badge/Facebook-@haleymhm-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/haleymhm)
 </br>
 [![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/haleymhidalgomoyetones)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Haleym_Hidalgo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/haleymhidalgomoyetones)
 
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
-
-## Mis guías de estudio iOS y Android:
-[![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
-[![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
-
-## Los retos de programación de la comunidad:
-
-![https://retosdeprogramacion.com](./mouredev_retos_programacion.png)
-
-### Retos Semanales y Mensuales para mejorar nuestra lógica de programación y portfolio de aplicaciones [retosdeprogramacion.com](https://retosdeprogramacion.com)
-
-### Semanales
-
-Cada semana un nuevo reto para mejorar nuestra lógica de programación.
-
-[![GitHub Weekly 2023](https://img.shields.io/github/stars/mouredev/retos-programacion-2023?label=Retos%20Semanales%202023&style=social)](https://github.com/mouredev/retos-programacion-2023)
-[![GitHub Weekly Kotlin 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-[![GitHub Weekly Swift 2022](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Retos%20Semanales%20Swift%202022&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
-
-### Mensuales
-
-Cada mes una nueva aplicación para añadir a nuestro portfolio.
-
-[![GitHub Monthly App](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Retos%20Mensuales%202022&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
-
-[![Twitch](https://img.shields.io/badge/Twitch-Challenge_live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Challenge_chat_channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-
-## Python desde cero: Curso gratis
-![https://mouredev.com/python](./python_banner.png)
-
-[![Curso Python](https://img.shields.io/github/stars/mouredev/hello-python?label=Curso%20Python%20desde%20cero&style=social)](https://github.com/mouredev/hello-python)
-
-## Algunos vídeos en YouTube:
-
-<table style="width:100%">
-<tr>
-<td>
-<a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/-pWSQYpkkjk">
-<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/pFyAu4R684s">
-<img src="http://i3.ytimg.com/vi/pFyAu4R684s/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/GoAxsdg0Xbs">
-<img src="http://i3.ytimg.com/vi/GoAxsdg0Xbs/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/96B6gZV3Vwk">
-<img src="http://i3.ytimg.com/vi/96B6gZV3Vwk/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/BQaxPwZWboA">
-<img src="http://i3.ytimg.com/vi/BQaxPwZWboA/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/Wfh0FYR0z6I">
-<img src="http://i3.ytimg.com/vi/Wfh0FYR0z6I/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/ebQphhLpJG0">
-<img src="http://i3.ytimg.com/vi/ebQphhLpJG0/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-</table>
+[![Web](https://img.shields.io/badge/haleymhm.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://haleymhm.com)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
