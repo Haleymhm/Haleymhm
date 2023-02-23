@@ -1,7 +1,5 @@
-# ![https://mouredev.com](https://github.com/Haleymhm/Haleymhm/blob/main/newLogo.png) Hola, mi nombre es Haleym Hidalgo 👋
-### Develper full-stack 
-
 ![https://github.com/Haleymhm](https://github.com/Haleymhm/Haleymhm/blob/main/header-git.png)
+# Hola 👋, mi nombre es Haleym Hidalgo  
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/haleymhm?style=social)](https://twitter.com/mouredev)
 ![GitHub Followers](https://img.shields.io/github/followers/Haleymhm?style=social)
