@@ -19,7 +19,7 @@ Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de 
 [![JavaScript](https://img.shields.io/badge/JavaScript-FDD835?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
 ### Framework y herramientas Front-end
-[![Vue.js](https://img.shields.io/badge/VueJS-43A047?style=for-the-badge&logo=vue&logoColor=white&labelColor=101010)]()
+[![Vue.js](https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-0D47A1?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![Jquery](https://img.shields.io/badge/Jquery-navy?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
 [![Bootstrap](https://img.shields.io/badge/Bootstrp-4A148C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
@@ -29,13 +29,13 @@ Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de 
 [![Larvel](https://img.shields.io/badge/laravel-E4405F?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 [![Symfony](https://img.shields.io/badge/symfony-339933?style=for-the-badge&logo=symfony&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Flask](https://img.shields.io/badge/Flask-FDD835?style=for-the-badge&logo=symfony&logoColor=white&labelColor=101010)]()
+[![Flask](https://img.shields.io/badge/Flask-FDD835?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
 [![FastApi](https://img.shields.io/badge/FastApi-00C853?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
 ### Base de datos
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Postgres](https://img.shields.io/badge/Postgres-navy?style=for-the-badge&logo=postgressql&logoColor=white&labelColor=101010)]()
-[![Oracle](https://img.shields.io/badge/Oracle-D50000?style=for-the-badge&logo=oracleh&logoColor=white&labelColor=101010)]()
+[![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgressql&logoColor=4169E1&labelColor=101010)]()
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracleh&logoColor=F80000&labelColor=101010)]()
 [![ElasticSearch](https://img.shields.io/badge/ElasticSearch-47A248?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=101010)]()
 
 ### Servicios cloud
