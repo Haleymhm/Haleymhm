@@ -9,20 +9,45 @@
 
 Soy ingeniero en sistemas y desarrollador desde hace más de doce años, :flag: venezolano viviendo en Chile desde al 2018
 <br />
-Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de Ingeniero en Informática [Universidad Politécnica Territorial Del Estado Portuguesa]. (Paso mucho tiempo :grin:, pero soy alegico a las aulas de clases y a los docentes con poca experiencia :unamused:)
+Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de Ingeniero en Informática [Universidad Politécnica Territorial Del Estado Portuguesa]. (Paso mucho tiempo :grin:, pero soy alérgico a las aulas de clases :unamused:)
 
 
 ## Tecnologías:
-[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+### Lenguajes
 [![PHP](https://img.shields.io/badge/Php-007396?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+
+### Framework y herramientas Front-end
+[![Vue.js](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Jquery](https://img.shields.io/badge/ElasticSearch-47A248?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/ElasticSearch-47A248?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=101010)]()
+[![TailwindCss](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
+### Framework y herramientas Back-end
+[![Larvel](https://img.shields.io/badge/laravel-339933?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
+[![Symfony](https://img.shields.io/badge/symfony-339933?style=for-the-badge&logo=symfony&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Flask](https://img.shields.io/badge/Flask-339933?style=for-the-badge&logo=symfony&logoColor=white&labelColor=101010)]()
+[![FastApi](https://img.shields.io/badge/FastApi339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+
+### Base de datos
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Postgres](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![Oracle](https://img.shields.io/badge/ElasticSearch-47A248?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=101010)]()
+[![ElasticSearch](https://img.shields.io/badge/ElasticSearch-47A248?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=101010)]()
+
+### Servicios cloud
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 [![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)]()
+
+
 </br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MongoDB](https://img.shields.io/badge/ElasticSearch-47A248?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
+
+
 </br>
 Y alguna más...
 
