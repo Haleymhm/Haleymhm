@@ -59,7 +59,7 @@ Y alguna más...
 [![Link](https://img.shields.io/badge/Link_Site-haleymhm.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://haleymhm.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haleym_Hidalgo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/haleymhidalgomoyetones)
 
-[![Web](https://img.shields.io/badge/haleymhm.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://haleymhm.dev)
+[![Web](https://img.shields.io/badge/haleymhm.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://haleymhm.dev)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
