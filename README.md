@@ -14,23 +14,23 @@ Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de 
 
 ## Tecnologías:
 ### Lenguajes
-[![PHP](https://img.shields.io/badge/Php-6A1B9A?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-FFEE58?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-FDD835?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 
 ### Framework y herramientas Front-end
 [![Vue.js](https://img.shields.io/badge/VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-0D47A1?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Jquery](https://img.shields.io/badge/Jquery-navy?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
-[![Bootstrap](https://img.shields.io/badge/Bootstrp-4A148C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
-[![TailwindCss](https://img.shields.io/badge/Tailwindcss-64B5F6?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Jquery](https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)]()
+[![Bootstrap](https://img.shields.io/badge/Bootstrp-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+[![TailwindCss](https://img.shields.io/badge/Tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
 
 ### Framework y herramientas Back-end
-[![Larvel](https://img.shields.io/badge/laravel-E4405F?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
-[![Symfony](https://img.shields.io/badge/symfony-339933?style=for-the-badge&logo=symfony&logoColor=white&labelColor=101010)]()
+[![Larvel](https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
+[![Symfony](https://img.shields.io/badge/symfony-navy?style=for-the-badge&logo=symfony&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![Flask](https://img.shields.io/badge/Flask-FDD835?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
-[![FastApi](https://img.shields.io/badge/FastApi-00C853?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![Flask](https://img.shields.io/badge/Flask-navy?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
+[![FastApi](https://img.shields.io/badge/FastApi-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=101010)]()
 
 ### Base de datos
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
