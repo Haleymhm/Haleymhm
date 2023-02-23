@@ -34,8 +34,8 @@ Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de 
 
 ### Base de datos
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Postgres](https://img.shields.io/badge/PostgresSql-4169E1?style=for-the-badge&logo=postgressql&logoColor=white&labelColor=101010)]()
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracleh&logoColor=white&labelColor=101010)]()
+[![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgressql&logoColor=white&labelColor=101010)]()
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=101010)]()
 
 ### Servicios cloud
