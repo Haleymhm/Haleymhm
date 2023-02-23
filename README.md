@@ -26,7 +26,7 @@ Graduado en el 2002 como Técnico en Analista de Sistemas [IUTEPI] y en 2018 de 
 [![TailwindCss](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 
 ### Framework y herramientas Back-end
-[![Larvel](https://img.shields.io/badge/laravel-339933?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
+[![Larvel](https://img.shields.io/badge/laravel-E4405F?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 [![Symfony](https://img.shields.io/badge/symfony-339933?style=for-the-badge&logo=symfony&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 [![Flask](https://img.shields.io/badge/Flask-339933?style=for-the-badge&logo=symfony&logoColor=white&labelColor=101010)]()
